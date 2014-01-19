@@ -21,3 +21,7 @@ This can be done entirely free, that's how I run it. Here's how.
 
 If you want automatic payouts, set up a cron job somewhere that runs
 `curl -F secret=yoursecret http://yourapp.herokuapp.com/payout`
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/freecoins/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
